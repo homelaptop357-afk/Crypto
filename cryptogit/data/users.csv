@@ -1,0 +1,4 @@
+username,password_hash,salt,is_admin
+admin,jFq7SaPLlvlzqY2Er5LYPqhYoX/nvQRpefxbWX7Nyxw=,8moMzj2dRAgPMtWVQ6vArw==,True
+andy,o3hparuY6Y4EVSkH45Ix0gixxeiIx4DQ5yO5xXgCcu4=,r1Wrmc/q22uObyUYC9sSRg==,False
+Aman,hfGbfvkcCPOjxavsMZ1fpon/G3lxmY8unu+E5i9ZjLw=,uAx6rvS6AGXaYo3UVx8sVg==,False
